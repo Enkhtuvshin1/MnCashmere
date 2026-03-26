@@ -22,7 +22,7 @@ const products: Record<"women" | "men", Product[]> = {
     { id: 2, nameKey: "category.product.cardigan", price: { mn: "₮980,000", en: "$980" }, image: "https://images.unsplash.com/photo-1525450824786-227cbef70703?w=600&h=800&fit=crop", sizes: ["S", "M", "L", "XL"], collection: "spring-summer" },
     { id: 3, nameKey: "category.product.turtleneck", price: { mn: "₮890,000", en: "$890" }, image: "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=600&h=800&fit=crop", sizes: ["S", "M", "L"], collection: "autumn-winter" },
     { id: 4, nameKey: "category.product.scarf", price: { mn: "₮450,000", en: "$450" }, image: "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=600&h=800&fit=crop", sizes: ["S", "M"], collection: "spring-summer" },
-    { id: 5, nameKey: "category.product.pullover", price: { mn: "₮750,000", en: "$750" }, image: "https://images.unsplash.com/photo-1434389677669-e08b4cda3a00?w=600&h=800&fit=crop", sizes: ["M", "L", "XL"], collection: "autumn-winter" },
+    { id: 5, nameKey: "category.product.pullover", price: { mn: "₮750,000", en: "$750" }, image: "https://images.unsplash.com/photo-1581497396202-5645e76a3a8e?w=600&h=800&fit=crop", sizes: ["M", "L", "XL"], collection: "autumn-winter" },
     { id: 6, nameKey: "category.product.coat", price: { mn: "₮2,400,000", en: "$2,400" }, image: "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=600&h=800&fit=crop", sizes: ["S", "M", "L"], collection: "autumn-winter" },
   ],
   men: [
